@@ -1,5 +1,10 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Thanh Tung. I am a B.E in Mechatronics Engineering Technology, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning, Computer Vision and Large Language Model.<br>
+## 📫 How to reach me: 
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/hồ-thanh-tùng-7472b625a/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/TunggTungg)
+
+![Tung's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TunggTungg&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 <!--
 **TunggTungg/TunggTungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
