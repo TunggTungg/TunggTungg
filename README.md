@@ -1,8 +1,8 @@
 
-### WELCOME TO MY PAGE 👋👋👋
+# 👋👋👋 WELCOME TO MY PAGE 
 My name is Thanh Tung. I am a B.E in Mechatronics Engineering Technology, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning, Computer Vision and Large Language Model.<br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hồ-thanh-tùng-7472b625a/) 
 
 # 📊 GitHub Stats:
@@ -10,6 +10,7 @@ My name is Thanh Tung. I am a B.E in Mechatronics Engineering Technology, majori
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TunggTungg&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TunggTungg&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# Projects:
 <a href="https://github.com/TunggTungg/de_makeup">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TunggTungg&repo=de_makeup&theme=highcontrast" />
@@ -22,7 +23,8 @@ My name is Thanh Tung. I am a B.E in Mechatronics Engineering Technology, majori
 <a href="https://github.com/TunggTungg/HandGesture">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TunggTungg&repo=HandGesture&theme=synthwave" />
-</a>  
+</a>
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
