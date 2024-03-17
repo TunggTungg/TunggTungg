@@ -13,15 +13,15 @@ My name is Thanh Tung. I am a B.E in Mechatronics Engineering Technology, majori
 # Projects:
 <a href="https://github.com/TunggTungg/de_makeup">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TunggTungg&repo=de_makeup&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TunggTungg&repo=de_makeup&theme=highcontrast" />
 </a>
 <a href="https://github.com/TunggTungg/Celebrity-Look-Alike">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TunggTungg&repo=Celebrity-Look-Alike&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TunggTungg&repo=Celebrity-Look-Alike&theme=synthwave" />
 </a>
 <a href="https://github.com/TunggTungg/image_retrieval">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TunggTungg&repo=image_retrieval&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TunggTungg&repo=image_retrieval&theme=radical" />
 </a>    
 
 
