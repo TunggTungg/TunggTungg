@@ -15,15 +15,16 @@ My name is Thanh Tung. I am a B.E in Mechatronics Engineering Technology, majori
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TunggTungg&repo=de_makeup&theme=highcontrast" />
 </a>
+<a href="https://github.com/TunggTungg/Celebrity-Look-Alike">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TunggTungg&repo=Celebrity-Look-Alike&theme=synthwave" />
+</a>
 <a href="https://github.com/TunggTungg/image_retrieval">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TunggTungg&repo=image_retrieval&theme=radical" />
 </a>    
 
-<a href="https://github.com/TunggTungg/HandGesture">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TunggTungg&repo=HandGesture&theme=synthwave" />
-</a>
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
